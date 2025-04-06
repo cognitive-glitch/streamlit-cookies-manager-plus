@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "streamlit-cookies-manager"
+name = "streamlit-cookies-manager-plus"
 version = "0.2.1"
 description = "Access and save cookies from Streamlit"
 authors = ["Tomasz Kontusz <tomasz.kontusz@gmail.com>"]
